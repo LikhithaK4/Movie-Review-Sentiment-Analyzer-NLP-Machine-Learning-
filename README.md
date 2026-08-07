@@ -1,0 +1,2 @@
+# Movie-Review-Sentiment-Analyzer-NLP-Machine-Learning-
+**Movie Review Sentiment Analyzer** is an NLP-based web application built with Python, scikit-learn, NLTK, and Streamlit. It classifies movie reviews as positive or negative using TF-IDF and Logistic Regression, achieving **89% accuracy**. The project demonstrates text preprocessing, feature extraction, machine learning, and interactive deployment.
